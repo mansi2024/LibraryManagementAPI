@@ -2,6 +2,5 @@ uvicorn
 fastapi
 pydantic
 pymongo
-bson
 typing
 
