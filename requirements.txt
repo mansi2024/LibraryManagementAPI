@@ -4,4 +4,4 @@ pydantic
 pymongo
 bson
 typing
-urllib
+
