@@ -78,7 +78,8 @@ async def update_student(id: str, student_update: StudentUpdate):
     
     # Return the updated student
     updated_student = students_collection.find_one({"_id": ObjectId(id)})
-    return updated_student
+   
+   
 
 
 
